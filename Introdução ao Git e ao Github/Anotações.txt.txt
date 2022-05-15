@@ -1,0 +1,22 @@
+O Git Bash é um terminal extendido para otimizar o uso do Git.
+
+Link para download: https://git-scm.com/downloads
+
+Git é uma ferramenta para versionamento de código, também sendo, um controle 
+de versão distribuido.
+
+- Funções basicas do Git:
+
+Git init: inicializa um repositório local, criando uma pasta oculta (".git") 
+e criando a estrutura de gerenciamento local
+
+Git clone: Copia o conteúdo de um repositório remoto para a maquina local. 
+Sempre será copiada a branch principal
+
+branch: Cria uma nova branch local
+
+Status: Mostra o branch atual, além de mostrar os arquivos alterados
+(versionados e não versionados)
+
+add: Adiciona as novas alterações ao versionamento local ("Stage")
+
